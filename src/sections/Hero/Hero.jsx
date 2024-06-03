@@ -12,7 +12,7 @@ function Hero() {
             <img className={styles.hero} src={heroImg} alt="home image"/>
         </div>
         <div className={styles.info}>
-            <h1>Eduardo <br/> Namiuti</h1>
+            <h1>Eduardo Fonseca <br/> Silveira Namiuti</h1>
             <h2>Frontend Developer</h2>
             <span>
                 <a href="https://www.linkedin.com/in/eduardo-namiuti-5641b627b/" target='_blank'>
